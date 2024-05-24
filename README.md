@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zyeraz
 - 👀 I’m interested in cool code
-- 🌱 I’m currently learning literally everything lol
+- 🌱 learning C# and Java
 - 📫 How to reach me twitch.tv/elliezelon
 
 <!---
