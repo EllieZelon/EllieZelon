@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zyeraz
 - 👀 I’m interested in cool code
 - 🌱 I’m currently learning literally everything lol
-- 💞️ I’m looking to collaborate on seggs.mp4
 - 📫 How to reach me twitch.tv/elliezelon
 
 <!---
